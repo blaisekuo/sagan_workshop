@@ -1,0 +1,35 @@
+ght curve computation in binary microlensing
+
+valerio bozza
+
+Lens equation
+
+Laguerre's method
+
+inverse ray shooting
+
+GPU for computation
+
+VBBinaryLensing
+
+WFIRST computational challenges
+
+imaging data processing
+
+Single Lens Lightcurve Modeling
+
+scott gaudi
+
+rectilinear trajectories
+
+total magnification equation
+
+magnification not directly observable, actually observing flux
+
+Flux, source, lens and background
+
+EMCEE python
+
+MultiNest
+
+

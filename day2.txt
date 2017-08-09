@@ -35,3 +35,66 @@ Mass Function fo Planets Measured from Microlensing
 
 planet discovery vs snow line
 
+Takahiro Sumi - Free-floating planet
+
+not orbitting any host stars
+
+in young star forming regions, hot emitting infrared radiation
+
+Size between T dwarf and jupiter
+
+CCD makes observation possible of lensing
+
+microlensing not rely on flux from host star
+
+MOA
+
+1.8 m, 80 M pix
+2.2 deg^2 FOV
+
+observing towards the galatic bulge
+
+need high cadence
+
+Observed Distribution of Planets
+
+ - inferences form microlensings, rv, direct imaign
+
+Christian Clanton
+
+3279 planets
+
+microlensing observables
+
+M Dwarfs
+
+CPS
+HARPS
+
+RV survey limits
+
+future work
+
+new results mass ratio
+
+suzuki - latest survey results
+
+OGLE-4 256 MPIX CCD
+
+Dark Matter
+
+lot of poles and japanese at microlensing - OGLE and MOA
+
+Chemical Evolution and the Mass Function of Stellar Mass Black Holes
+
+NASA Exoplanet Archive
+
+Calen
+
+including UKIRT
+
+pyLIMA fitting tool
+
+EXOFAST - RV and transit
+
+SuperWASP interface for UKIRT data
