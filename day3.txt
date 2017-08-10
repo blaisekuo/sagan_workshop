@@ -1,4 +1,4 @@
-ght curve computation in binary microlensing
+Ligght curve computation in binary microlensing
 
 valerio bozza
 
@@ -31,5 +31,34 @@ Flux, source, lens and background
 EMCEE python
 
 MultiNest
+
+Fitting Light Curves in Microlensing
+
+Valerio
+
+Downhill method
+
+Markov Chain
+
+parameterization
+
+Formation of Planets on Wide Orbits Kaitlin Kratter
+
+Planet Population Synthesis Yann Alibert
+
+
+Planetesimals vs Pebbles based models
+
+FOrmation of Free Floating Planets
+
+explant populations
+
+free floating planets
+
+formation mechanisms
+
+kepler has found a lot of short orbital period systems
+
+M dwarfs with Neptunes instead of Jupiters
 
 
